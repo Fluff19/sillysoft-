@@ -1,0 +1,10 @@
+{
+  "name": "Sillysoft",
+  "version": "1.0.1",
+  "description": "A basic static site for Sillysoft",
+  "scripts": {
+    "start": "echo 'No build step needed.'"
+  },
+  "author": "Sillysoft",
+  "license": "MIT"
+}
